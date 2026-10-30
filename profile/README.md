@@ -177,7 +177,7 @@ Other products are proprietary or private while in development. A private reposi
 Product feedback, support, business inquiries, or partnership ideas are welcome.<br>
 The more specific you are, the more direct our answer.
 
-[![Email](https://img.shields.io/badge/EMAIL-contato%40vemryx.com-000000?style=for-the-badge)](mailto:contato@vemryx.com) [![Contact page](https://img.shields.io/badge/MORE%20WAYS-vemryx.com%2Fcontact-000000?style=for-the-badge)](https://vemryx.com/contact/)
+[![Email](https://img.shields.io/badge/EMAIL-contact%40vemryx.com-000000?style=for-the-badge)](mailto:contact@vemryx.com) [![Contact page](https://img.shields.io/badge/MORE%20WAYS-vemryx.com%2Fcontact-000000?style=for-the-badge)](https://vemryx.com/contact/)
 
 <sub>Vemryx · Brazil · © 2026 · Our sites are available in English, Portuguese, and Spanish</sub>
 
